@@ -130,6 +130,10 @@ span.smaller-thin-text{
 	width: 100%;
 }
 
+.connectMe h3{
+	font-weight: 200;
+}
+
 .footer{
 	min-height: 100px;
 	background: -webkit-linear-gradient(left, transparent 0%,rgba(255, 195, 0, 1) 0%, rgba(255, 195, 0, 1) 100%); /* Chrome10+, Safari5.1+ */
